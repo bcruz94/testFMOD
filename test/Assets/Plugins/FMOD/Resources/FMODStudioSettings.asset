@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: FMODStudioSettings
   m_EditorClassIdentifier: 
   SwitchSettingsMigration: 1
-  HasSourceProject: 0
-  HasPlatforms: 0
-  sourceProjectPath: 
-  SourceProjectPathUnformatted: 
-  SourceBankPathUnformatted: FMOD\FMODtest\Build\Desktop
+  HasSourceProject: 1
+  HasPlatforms: 1
+  sourceProjectPath: F:\Storage\testFMOD\test\FMOD\FMODtest\FMODtest.fspro
+  SourceProjectPathUnformatted: FMOD\FMODtest\FMODtest.fspro
+  SourceBankPathUnformatted: FMOD\FMODtest\Build
   AutomaticEventLoading: 1
   BankLoadType: 0
   AutomaticSampleLoading: 0
@@ -58,7 +58,9 @@ MonoBehaviour:
     Value: 0
   - Platform: 20
     Value: 0
-  BankDirectorySettings: []
+  BankDirectorySettings:
+  - Platform: 2
+    Value: Desktop
   VirtualChannelSettings:
   - Platform: 1
     Value: 1024
