@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: FMODStudioSettings
   m_EditorClassIdentifier: 
   SwitchSettingsMigration: 1
-  HasSourceProject: 1
-  HasPlatforms: 1
+  HasSourceProject: 0
+  HasPlatforms: 0
   sourceProjectPath: F:\Storage\testFMOD\test\FMOD\testProject\testProject.fspro
   SourceProjectPathUnformatted: FMOD\testProject\testProject.fspro
-  SourceBankPathUnformatted: FMOD\testProject\Build
+  SourceBankPathUnformatted: FMOD\testProject\Build\Desktop
   AutomaticEventLoading: 1
   BankLoadType: 0
   AutomaticSampleLoading: 0
